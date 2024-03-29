@@ -110,7 +110,7 @@ open class SoraStream : TmdbProvider() {
         const val vidsrctoAPI = "https://vidsrc.to"
         const val dramadayAPI = "https://dramaday.me"
         const val animetoshoAPI = "https://animetosho.org"
-        const val showflixAPI = "https://showflix.lol"
+        const val showflixAPI = "https://showflix.xyz"
         const val aoneroomAPI = "https://api3.aoneroom.com"
         const val mMoviesAPI = "https://multimovies.art"
         const val watchCartoonAPI = "https://www1.watchcartoononline.bz"
