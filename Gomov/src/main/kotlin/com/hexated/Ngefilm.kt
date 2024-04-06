@@ -4,7 +4,7 @@ import com.lagradost.cloudstream3.mainPageOf
 
 class Ngefilm : Gomov() {
 
-    override var mainUrl = "https://ngefilm21.pics"
+    override var mainUrl = "https://nf.ngefilm21official.online"
 
     override var name = "Ngefilm"
     override val mainPage = mainPageOf(
