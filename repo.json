@@ -1,6 +1,6 @@
 {
-    "name": "Hexated providers repository",
-    "description": "Providers from all country",
+    "name": "MuhaGX providers repository",
+    "description": "Fork Hexated",
     "manifestVersion": 1,
     "pluginLists": [
         "https://raw.githubusercontent.com/MuhaGX/cloudstream-extensions-muhagx/master/plugin.json"
