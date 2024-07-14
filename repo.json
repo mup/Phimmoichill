@@ -1,23 +1,8 @@
-[
-
- {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-        "fileSize": 20276,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 39,
-        "internalName": "KuramanimeProvider",
-        "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/KuramanimeProvider.cs3",
-        "name": "KuramanimeProvider"
-    }
-]
+{
+    "name": "Hexated providers repository",
+    "description": "Providers from all country",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/plugins.json"
+    ]
+}
